@@ -6,7 +6,7 @@ public class bank {
 		
 		System.out.println("hi, welcome to the world banking");
                  
-		
+		System.out.println("hi, welcome to the world banking from remote to local");
 		
 	}
 	
