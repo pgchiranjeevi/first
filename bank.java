@@ -7,6 +7,7 @@ public class bank {
 		System.out.println("hi, welcome to the banking");
                  12345
 			 System.out.println(" Modified code");
+ System.out.println("From local to repository");
 		
 		
 		
